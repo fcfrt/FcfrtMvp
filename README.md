@@ -28,7 +28,22 @@ FcfrtMvp+RxHttp+RxJava（Kotlin和JAVA共用完美支持）支持一键创建MVP
 
 
 ## 准备工作
-
+## gradle
+Step 1.将其添加到根构建中。仓库末尾的gradle:
+```java
+allprojects {
+		repositories {
+			...
+			maven { url 'https://jitpack.io' }
+		}
+	}
+ ```
+Step 2.添加依赖关系
+```java
+	dependencies {
+	        implementation 'com.github.fcfrt:FcfrtMvp:1.0'
+	}
+ ```
 首先，我们需要把框架模版中的FcfrtMvpActivity框架模板复制在Android Studio 安装包下面的\plugins\android\lib\templates\activities\下
 
 此时重起一下Android studio即可
