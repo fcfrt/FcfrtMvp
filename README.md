@@ -26,7 +26,7 @@ FcfrtMvp+RxHttp+RxJava（Kotlin和JAVA共用完美支持）支持一键创建MVP
 ## 前言
 由于本人文字功底不怎么样就不过多介绍如果有不懂的欢迎进群提问，如果觉得该框架可以的话给一个你宝贵的Star🙏，在此非常感谢RxHttp作者的大力支持。
 
-
+# QQ群：574181465
 ## 准备工作
 首先，我们需要把框架模版中的FcfrtMvpActivity框架模板复制在Android Studio 安装包下面的\plugins\android\lib\templates\activities\下
 
